@@ -13,7 +13,7 @@ LH_CD_LUCASMATOSDASILVA/
 │   └── DesafioIndicium.ipynb     # Notebook principal (exportado do Colab)
 │
 │── reports/
-│   └── DesafioIndicium.pdf       # Relatório em PDF exportado do notebook
+│   └── LH_CD_LUCASMATOSDASILVA.pdf       # Relatório em PDF exportado do notebook
 │
 │── models/
 │   └── modelo_imdb.pkl           # Modelo Random Forest salvo
